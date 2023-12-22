@@ -10,9 +10,14 @@ npm i
 npm start
 ```
 
-![1](https://github.com/bedirhanbalci/ToDoApp/assets/61194064/525bae7c-dd95-41bc-98bc-ae5fa076fd89)
-![2](https://github.com/bedirhanbalci/ToDoApp/assets/61194064/7ef826b2-9990-45af-97d6-15674736772f)
-![3](https://github.com/bedirhanbalci/ToDoApp/assets/61194064/8e76fcb8-1fe1-4e72-ac40-63f1c8c65505)
-![4](https://github.com/bedirhanbalci/ToDoApp/assets/61194064/dd366486-3cf1-43fb-9c84-54a18b8c0e5c)
-![5](https://github.com/bedirhanbalci/ToDoApp/assets/61194064/306c1281-b1dc-488c-9000-43a4addc38b9)
-![6](https://github.com/bedirhanbalci/ToDoApp/assets/61194064/c40b5117-0dda-4cb7-83a9-b5a60b0a2cd4)
+![1](https://github.com/bedirhanbalci/ToDoApp/assets/61194064/8d231b8f-1c01-47af-bbc5-a3a827f4b0a3)
+
+![2](https://github.com/bedirhanbalci/ToDoApp/assets/61194064/67c38699-dd69-480c-96db-37f7c3f0639c)
+
+![3](https://github.com/bedirhanbalci/ToDoApp/assets/61194064/56a052d1-d81b-4ac0-bf04-c6d21c6765d5)
+
+![4](https://github.com/bedirhanbalci/ToDoApp/assets/61194064/36a549c1-5660-490e-93e6-94e3a31c95ef)
+
+![5](https://github.com/bedirhanbalci/ToDoApp/assets/61194064/14c40744-4a52-4e16-9637-a1220e4f7c76)
+
+![6](https://github.com/bedirhanbalci/ToDoApp/assets/61194064/fce53aff-f41b-42fc-8227-6f3dd7e85f44)
